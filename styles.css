@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
- .selector  :nth-of-type(odd) {
+ .selector {
     color :#00f;
     background-color : #eee;
  }
